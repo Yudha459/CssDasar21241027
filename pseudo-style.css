@@ -1,0 +1,17 @@
+.kampus {
+    color: rgb(6, 255, 6);
+}
+
+.kampus:hover {
+    font-family: arial;
+    font-size: 20px;
+    color: aqua;
+}
+
+.kampus:active {
+    font-style: italic;
+}
+
+.kampus:visited {
+    color: pink;
+}

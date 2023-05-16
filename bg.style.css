@@ -1,0 +1,7 @@
+body {
+    background-color: antiquewhite;
+    background-image: url(img/spongebob.png);
+    /* valuenya bisa diganti ganti */
+    background-repeat: no-repeat;
+    background-position: top right;
+}
